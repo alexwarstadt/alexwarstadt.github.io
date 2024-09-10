@@ -2,20 +2,25 @@
 layout: about
 title: about
 permalink: /
-subtitle:
-
+subtitle: >
+  [ˈælɪks ˈwɔɹstæt]
+  <audio controls>
+      <source src="assets/audio/alex_warstadt.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+  </audio>
+  <a href= "mailto: name@email.com"> name@email.com </a>
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Office number: TBA</p>
-    <p>Email: alexwarstadt@gmail.com, warstadt@ethz.ch, awarstadt@ucsd.edu</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+
 As a computational linguist, I use language models and other tools from natural language processing 
 to further our understanding of human language meaning, structure, and acquisition. 
 I also use insights from linguistics to evaluate and interpret language models. 
