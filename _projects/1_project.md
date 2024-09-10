@@ -1,25 +1,14 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: BabyLM
+description: Training sample efficient language models on developmentally plausible corpora
+img: assets/img/data_scale.png
 importance: 1
 category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Humans are remarkably efficient language learners compared to language models. It would take a human a million years to accumulate as much linguistic input as most popular large language models, yet we learn language in just a few years. BabyLM is a competition and workshop devoted to data-efficient language learning. How do humans acquire language from so little input? How can we build more data-efficient language models? How do we design language models to be better cognitive models?
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
