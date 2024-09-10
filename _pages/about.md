@@ -2,24 +2,27 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle:
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Office number: TBA</p>
+    <p>Email: alexwarstadt@gmail.com, warstadt@ethz.ch, awarstadt@ucsd.edu</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+As a computational linguist, I use language models and other tools from natural language processing 
+to further our understanding of human language meaning, structure, and acquisition. 
+I also use insights from linguistics to evaluate and interpret language models. 
+I work to use language models as cognitive models to gain insights about language that cannot be easily gotten 
+from studying human subjects, and to build more cognitively models.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I’m currently an ETH Postdoctoral Fellow at ETH Zürich, affiliated with [Rycolab](https://rycolab.io/). 
+Starting in January 2025, I will be and Assistant Professor at UC San Diego with appointments [Linguistics](https://linguistics.ucsd.edu/) and the [Halıcıoğlu Data Science Institute](https://datascience.ucsd.edu/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
