@@ -3,12 +3,14 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  [ˈælɪks ˈwɔɹstæt]
-  <audio controls>
-      <source src="assets/audio/alex_warstadt.mp3" type="audio/mpeg">
-      Your browser does not support the audio element.
-  </audio>
-  <a href= "mailto: name@email.com"> name@email.com </a>
+  <p> [ˈælɪks ˈwɔɹstæt] </p>
+  <p>
+      <audio controls>
+          <source src="assets/audio/alex_warstadt.mp3" type="audio/mpeg">
+          Your browser does not support the audio element.
+      </audio>
+  </p>
+  <p><a href= "mailto: name@email.com"> name@email.com </a></p>
 profile:
   align: right
   image: prof_pic.jpg
