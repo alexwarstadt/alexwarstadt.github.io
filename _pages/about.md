@@ -10,7 +10,7 @@ subtitle: >
           Your browser does not support the audio element.
       </audio>
   </p>
-  <p><a href= "mailto: name@email.com"> name@email.com </a></p>
+  <p><a href= "mailto: alexwarstadt@gmail.com"> alexwarstadt@gmail.com </a></p>
 profile:
   align: right
   image: prof_pic.jpg
@@ -22,14 +22,18 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+I am a computational linguist and an Assistant Professor at UC San Diego with appointments in [Linguistics](https://linguistics.ucsd.edu/) and the [Halıcıoğlu Data Science Institute](https://datascience.ucsd.edu/).
 
-As a computational linguist, I use language models and other tools from natural language processing 
-to further our understanding of human language meaning, structure, and acquisition. 
-I also use insights from linguistics to evaluate and interpret language models. 
-I work to use language models as cognitive models to gain insights about language that cannot be easily gotten 
-from studying human subjects, and to build more cognitively models.
+I am the PI of UC San Diego's Learning, Meaning, and Natural language lab (LeM🍋N Lab).
+The group focuses on interdisciplinary research in linguistics, computational cognitive modeling, and natural language processing.
+We use advances in machine learning to understand why human language is the way it is, 
+how children come to acquire it, and how information is conveyed across multiple channels. 
+We use insights from linguistics and cognitive science to advance compute- and data-efficient learning in LMs 
+and to evaluate and interpret how LMs learn and represent grammatical structures and meaning.
 
-I’m currently an ETH Postdoctoral Fellow at ETH Zürich, affiliated with [Rycolab](https://rycolab.io/). 
-Starting in January 2025, I will be and Assistant Professor at UC San Diego with appointments [Linguistics](https://linguistics.ucsd.edu/) and the [Halıcıoğlu Data Science Institute](https://datascience.ucsd.edu/).
-
-
+Prior to coming to UC San Diego:
+- I did my Postdoc at ETH Zürich, were I was affiliated with [Rycolab](https://rycolab.io/) (PI: [Ryan Cotterell](https://rycolab.io/authors/ryan/)).
+- I completed my PhD at NYU in Linguistics (Dissertation: "Artificial Neural Networks as Models of Human Language Acquisition"), 
+where I was supervised by [Sam Bowman](https://sleepinyourhat.github.io/) 
+and affiliated with [CAP Lab](https://caplabnyu.github.io/) (PI: [Tal Linzen](https://tallinzen.net/)).
+- I received BAs in Linguistics and Music Theory from Brown University (Thesis: "The Syntax of Coordination and Discontinuity in a Combinatory Categorial Grammar", advisor: Pauline Jacobson).
