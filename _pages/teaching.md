@@ -14,13 +14,16 @@ LIGN 187. Topics in Linguistics: Information Theory in Linguistics.
 
 Course site and syllabus TBA.
 
-An advanced undergraduate course taking a quantitative, computational, experimental, and cognitive approach to linguistics.
-We introduce foundational mathematical concepts in information theory, such as entropy, surprisal, and mutual information.
-After covering their theoretical underpinning and justification, we discuss how they are applied to linguistics.
-We discuss classic and cutting-edge research in linguistics, machine learning, and cognitive science
-that uses these concepts to advance our understanding of human language.
-Topics include:
-- how the brain processes language during reading
-- why the lexicon is structured the way it is
-- how to quantify the pragmatic relevance of an answer in a discourse
-- how children use the principles of simplicity in language acquisition
+Information theory is the mathematical framework for quantifying information and
+communication. It has found applications in many fields, from computer science
+and engineering to physics and genetics. While providing an accessible
+introduction to the fundamental concepts of information theory with a focus on
+linguistic case studies, we discuss applications of those concepts in both classic
+and recent research in linguistics, cognitive science, and natural language
+processing.
+Possible topics include:
+- How does the brain processes language during reading?
+- What principles determine the optimal lengths of words?
+- How do interlocutors quantify the pragmatic relevance of an answer in a discourse?
+- How can we test large language models for harmful stereotypes?
+- How does a learning bias favoring simplicity shape human language acquisition?
