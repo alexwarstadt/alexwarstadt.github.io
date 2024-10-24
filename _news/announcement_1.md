@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-05-30
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+BabyLM featured in the New York Times! [article](https://www.nytimes.com/2023/05/30/science/ai-chatbots-language-learning-models.html)
