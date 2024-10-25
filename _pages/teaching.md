@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-# Information Theory in Linguistics
+## Information Theory in Linguistics
 Winter 2025. 
 
 LIGN 187. Topics in Linguistics: Information Theory in Linguistics.

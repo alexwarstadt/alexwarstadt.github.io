@@ -2,6 +2,7 @@
 layout: about
 title: About
 permalink: /
+cv_pdf: Warstadt_CV_october2024.pdf
 subtitle: >
   <p> [ˈælɪks ˈwɔɹstæt] </p>
   <p>
