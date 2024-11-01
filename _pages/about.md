@@ -17,9 +17,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Offices</p>
-    <p>HDSI #331</p>
-    <p>Linguistics (Applied Physics and Mathematics) #4220</p>
+    <p>Offices 
+    \\ HDSI #331 
+    \\ Linguistics (Applied Physics and Mathematics) #4220</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
