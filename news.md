@@ -1,0 +1,1 @@
+Alex quoted and BabyLM [featured](https://spectrum.ieee.org/small-language-models-apple-microsoft) in IEEE spectrum.
