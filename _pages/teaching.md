@@ -12,7 +12,7 @@ Winter 2025.
 
 LIGN 187. Topics in Linguistics: Information Theory in Linguistics.
 
-Course site and syllabus TBA.
+[Course Syllabus](https://docs.google.com/document/d/1iz_mn0Jcp4kWEI0aJUfSvKu3CA7ljoj4r_tLVdJS47o/edit?usp=sharing)
 
 Information theory is the mathematical framework for quantifying information and
 communication. It has found applications in many fields, from computer science
