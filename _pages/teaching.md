@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: I currently teach at UC San Diego in Linguistics (LIGN) and Data Science (DSC).
+description: I teach at UC San Diego in Linguistics (LIGN) and Data Science (DSC).
 nav: true
 nav_order: 6
 ---
