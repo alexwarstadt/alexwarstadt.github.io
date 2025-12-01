@@ -43,3 +43,5 @@ Prior to coming to UC San Diego:
 where I was supervised by [Sam Bowman](https://sleepinyourhat.github.io/) 
 and affiliated with [CAP Lab](https://caplabnyu.github.io/) (PI: [Tal Linzen](https://tallinzen.net/)).
 - I received BAs in Linguistics and Music Theory from Brown University (Thesis: "The Syntax of Coordination and Discontinuity in a Combinatory Categorial Grammar", advisor: Pauline Jacobson).
+
+**Prospective PhD students: I am recruiting PhD students through Linguistics only.** I am open to co-advising students in HDSI, but if you specifically want to work with me, please apply to Linguistics.
